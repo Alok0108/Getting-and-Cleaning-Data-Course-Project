@@ -1,13 +1,10 @@
 ---
-title: "Code Book"
-author: "Alok Tripathi"
-date: "September 13, 2018"
-output: html_document
+Title: "Code Book"
+Author: "Alok Tripathi"
+Date: "September 13, 2018"
+Output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 # Code Book
 
